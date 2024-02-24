@@ -62,7 +62,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "f2",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/Jerry/Documents/Development/Opulent/IntEditor/DsPractice/src",
+    "last_opened_file_path": "/Users/Jerry/Documents/Development/Opulent/IntEditor/DsPractice/src/String",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -77,8 +77,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/String" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/java-practice" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/DataStructure/HashMap" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="DataStructure.HashMap" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Arrays.Medium" />
@@ -174,7 +181,7 @@
       <workItem from="1706967048678" duration="210000" />
       <workItem from="1707109004445" duration="2933000" />
       <workItem from="1707151681752" duration="33128000" />
-      <workItem from="1708701992664" duration="7924000" />
+      <workItem from="1708701992664" duration="8616000" />
     </task>
     <servers />
   </component>
@@ -214,12 +221,12 @@
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/String/checkIsomorphic/isIsomorphic.java</url>
+          <url>file://$PROJECT_DIR$/src/String/Simple/ReverseWords/checkIsomorphic/isIsomorphic.java</url>
           <line>15</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/String/RemoveOuterParantheses/RemoveOuterParanthesesOs.java</url>
+          <url>file://$PROJECT_DIR$/src/String/Simple/ReverseWords/RemoveOuterParantheses/RemoveOuterParanthesesOs.java</url>
           <line>18</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
