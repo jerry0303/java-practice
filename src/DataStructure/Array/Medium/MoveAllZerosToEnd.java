@@ -1,4 +1,4 @@
-package Array.Medium;
+package DataStructure.Array.Medium;
 
 import java.util.ArrayList;
 import java.util.List;

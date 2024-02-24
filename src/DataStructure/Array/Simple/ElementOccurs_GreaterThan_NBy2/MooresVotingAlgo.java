@@ -1,4 +1,4 @@
-package Array.Simple.ElementOccurs_GreaterThan_NBy2;
+package DataStructure.Array.Simple.ElementOccurs_GreaterThan_NBy2;
 import java.util.HashMap;
 import java.util.Map;
 public class MooresVotingAlgo {

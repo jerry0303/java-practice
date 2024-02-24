@@ -1,4 +1,4 @@
-package Array.Medium;
+package DataStructure.Array.Medium;
 public class LeftRotateArrayByKPlaces {
     static int[] rotate(int []arr, int k){
         k  = k % arr.length;
