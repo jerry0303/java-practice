@@ -1,4 +1,4 @@
-package Array.Medium;
+package DataStructure.Array.Medium;
 
 public class MoveAllZerosToEndOs {
     static int[] moveZeros(int[] a,  int n){

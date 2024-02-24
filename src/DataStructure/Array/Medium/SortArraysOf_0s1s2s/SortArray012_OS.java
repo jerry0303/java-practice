@@ -1,4 +1,4 @@
-package Array.Medium.SortArraysOf_0s1s2s;
+package DataStructure.Array.Medium.SortArraysOf_0s1s2s;
 
 public class SortArray012_OS {
 

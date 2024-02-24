@@ -1,4 +1,4 @@
-package Array.Medium;
+package DataStructure.Array.Medium;
 public class LeftRotateArrayByKPlacesOS {
     static int[] rotate(int []arr, int k){
         k  = k % arr.length;
@@ -25,13 +25,13 @@ public class LeftRotateArrayByKPlacesOS {
     public static void main(String[] args){
         int arr[] = {11,12,13,14,15};
 
-        System.out.print("Before Rotated Array is \n ");
+        System.out.print("Before Rotated DataStructure.Array is \n ");
         for(int x: arr){
             System.out.print(x+" ");
         }
         System.out.print("\n \n ");
         rotate(arr, 1);
-        System.out.print("After Rotated Array is \n ");
+        System.out.print("After Rotated DataStructure.Array is \n ");
         for(int x:  arr){
             System.out.print(x+" ");
         }
