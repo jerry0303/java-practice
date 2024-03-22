@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69defbfd-8c7b-4d57-88ca-588b1a849b8d" name="Changes" comment="DeleteNodeFromLinkedLList" />
+    <list default="true" id="69defbfd-8c7b-4d57-88ca-588b1a849b8d" name="Changes" comment="Deleted Folders">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +18,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="feature-dsps" />
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
@@ -40,6 +45,12 @@
     </option>
   </component>
   <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="jerry0303" />
+        <option name="repository" value="java-practice" />
+      </RepoCoordinatesHolder>
+    </option>
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="da7a56b2-8173-4fd6-8e29-2e50311c94de" />
@@ -195,6 +206,13 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-16.0.2-corretto-16.0.2-f644763e9732-971cca82" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -210,7 +228,7 @@
       <workItem from="1710912409808" duration="50000" />
       <workItem from="1710912506431" duration="1272000" />
       <workItem from="1710914203691" duration="626000" />
-      <workItem from="1711131144045" duration="700000" />
+      <workItem from="1711131144045" duration="1252000" />
     </task>
     <task id="LOCAL-00001" summary="DeleteNodeFromLinkedLList">
       <option name="closed" value="true" />
@@ -220,7 +238,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711131703009</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="DeleteNodeFromLinkedLList">
+      <option name="closed" value="true" />
+      <created>1711131883712</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711131883712</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Deleted Folders">
+      <option name="closed" value="true" />
+      <created>1711132227775</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711132227775</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,7 +274,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="DeleteNodeFromLinkedLList" />
-    <option name="LAST_COMMIT_MESSAGE" value="DeleteNodeFromLinkedLList" />
+    <MESSAGE value="Deleted Folders" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deleted Folders" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
