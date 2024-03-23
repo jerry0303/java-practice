@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69defbfd-8c7b-4d57-88ca-588b1a849b8d" name="Changes" comment="DeleteNodeFromLinkedLList" />
+    <list default="true" id="69defbfd-8c7b-4d57-88ca-588b1a849b8d" name="Changes" comment="Deleted Folders">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +18,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="feature-dsps" />
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
@@ -40,6 +45,12 @@
     </option>
   </component>
   <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="jerry0303" />
+        <option name="repository" value="java-practice" />
+      </RepoCoordinatesHolder>
+    </option>
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="da7a56b2-8173-4fd6-8e29-2e50311c94de" />
@@ -64,47 +75,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Factorial.executor": "Run",
-    "Application.GFG.executor": "Run",
-    "Application.LargestCommonPrefix.executor": "Run",
-    "Application.LearnHashMap.executor": "Run",
-    "Application.LeftRotateArrayBy1Place.executor": "Run",
-    "Application.LeftRotateArrayByKPlaces.executor": "Run",
-    "Application.LeftRotateArrayByKPlacesOS.executor": "Run",
-    "Application.MooresVotingAlgo.executor": "Run",
-    "Application.MoveAllZerosToEnd.executor": "Run",
-    "Application.MoveAllZerosToEndOs.executor": "Debug",
-    "Application.RemoveDuplicatesFromArray.executor": "Run",
-    "Application.RemoveOuterParantheses.executor": "Debug",
-    "Application.RemoveOuterParanthesesOs.executor": "Debug",
-    "Application.ReverseWords.executor": "Run",
-    "Application.Solution.executor": "Debug",
-    "Application.SortArray012.executor": "Run",
-    "Application.String.CheckRotatedString.Solution.executor": "Debug",
-    "Application.ThreadPriorities.executor": "Run",
-    "Application.TwoSum.executor": "Run",
-    "Application.TwoSumSol1.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "feature-dsps",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/Jerry/Documents/Development/Opulent/IntEditor/gitProject/java-practice/src/DataStructure/LinkedList/DeleteNodeFromLL",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GFG.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestCommonPrefix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LearnHashMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeftRotateArrayBy1Place.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeftRotateArrayByKPlaces.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeftRotateArrayByKPlacesOS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MooresVotingAlgo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MoveAllZerosToEnd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MoveAllZerosToEndOs.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.RemoveDuplicatesFromArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveOuterParantheses.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.RemoveOuterParanthesesOs.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ReverseWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.SortArray012.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String.CheckRotatedString.Solution.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ThreadPriorities.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoSumSol1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature-dsps&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/Jerry/Documents/Development/Opulent/IntEditor/gitProject/java-practice/src/DataStructure/LinkedList/DeleteNodeFromLL&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/DataStructure/LinkedList/DeleteNodeFromLL" />
@@ -195,6 +206,13 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-16.0.2-corretto-16.0.2-f644763e9732-971cca82" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -210,7 +228,8 @@
       <workItem from="1710912409808" duration="50000" />
       <workItem from="1710912506431" duration="1272000" />
       <workItem from="1710914203691" duration="626000" />
-      <workItem from="1711131144045" duration="700000" />
+      <workItem from="1711131144045" duration="1252000" />
+      <workItem from="1711172317307" duration="449000" />
     </task>
     <task id="LOCAL-00001" summary="DeleteNodeFromLinkedLList">
       <option name="closed" value="true" />
@@ -220,7 +239,31 @@
       <option name="project" value="LOCAL" />
       <updated>1711131703009</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="DeleteNodeFromLinkedLList">
+      <option name="closed" value="true" />
+      <created>1711131883712</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711131883712</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Deleted Folders">
+      <option name="closed" value="true" />
+      <created>1711132227775</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711132227775</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Deleted Folders">
+      <option name="closed" value="true" />
+      <created>1711133037702</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711133037702</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,7 +283,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="DeleteNodeFromLinkedLList" />
-    <option name="LAST_COMMIT_MESSAGE" value="DeleteNodeFromLinkedLList" />
+    <MESSAGE value="Deleted Folders" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deleted Folders" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
