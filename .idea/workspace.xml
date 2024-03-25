@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69defbfd-8c7b-4d57-88ca-588b1a849b8d" name="Changes" comment="Deleted Folders">
-      <change afterPath="$PROJECT_DIR$/src/DataStructure/Array/Simple/ConOnes/Solution" afterDir="false" />
+    <list default="true" id="69defbfd-8c7b-4d57-88ca-588b1a849b8d" name="Changes" comment="git manage">
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/Array/Simple/LongestSubarray/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/1221.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GitCommands.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/GitCommands.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/R1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReverseWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/Simple/ReverseWords/ReverseWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +119,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "feature-dsps",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/Jerry/Documents/Development/Opulent/IntEditor/gitProject/java-practice",
+    "last_opened_file_path": "/Users/Jerry/Documents/Development/Opulent/IntEditor/gitProject/java-practice/src/DataStructure/Array/Simple",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -139,11 +134,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/DataStructure/Array/Simple" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/DataStructure/LinkedList/DeleteNodeFromLL" />
       <recent name="$PROJECT_DIR$/src/DataStructure/LinkedList" />
       <recent name="$PROJECT_DIR$/src/DataStructure" />
-      <recent name="$PROJECT_DIR$/src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/String/Simple/ReverseWords" />
@@ -279,7 +274,7 @@
       <workItem from="1710914203691" duration="626000" />
       <workItem from="1711131144045" duration="1252000" />
       <workItem from="1711172317307" duration="3058000" />
-      <workItem from="1711194942817" duration="2395000" />
+      <workItem from="1711194942817" duration="3489000" />
     </task>
     <task id="LOCAL-00001" summary="DeleteNodeFromLinkedLList">
       <option name="closed" value="true" />
@@ -313,7 +308,31 @@
       <option name="project" value="LOCAL" />
       <updated>1711133037702</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ConsecutiveOnes">
+      <option name="closed" value="true" />
+      <created>1711303987713</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711303987713</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ConsecutiveOnes">
+      <option name="closed" value="true" />
+      <created>1711389785645</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711389785645</updated>
+    </task>
+    <task id="LOCAL-00007" summary="git manage">
+      <option name="closed" value="true" />
+      <created>1711389838670</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711389838670</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -334,7 +353,9 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="DeleteNodeFromLinkedLList" />
     <MESSAGE value="Deleted Folders" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deleted Folders" />
+    <MESSAGE value="ConsecutiveOnes" />
+    <MESSAGE value="git manage" />
+    <option name="LAST_COMMIT_MESSAGE" value="git manage" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
