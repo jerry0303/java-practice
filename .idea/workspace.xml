@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69defbfd-8c7b-4d57-88ca-588b1a849b8d" name="Changes" comment="Deleted Folders">
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/Array/Simple/ConOnes/Solution" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/1221.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GitCommands.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/GitCommands.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/R1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/Simple/ReverseWords/ReverseWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,12 +37,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;jerry0303&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "state": "CLOSED",
+      "assignee": "jerry0303"
+    }
+  ],
+  "lastFilter": {
+    "state": "CLOSED",
+    "assignee": "jerry0303"
   }
-}</component>
+}]]></component>
   <component name="GithubProjectSettings">
     <option name="branchProtectionPatterns">
       <list>
@@ -61,6 +73,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -75,54 +94,61 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GFG.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LargestCommonPrefix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LearnHashMap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeftRotateArrayBy1Place.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeftRotateArrayByKPlaces.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeftRotateArrayByKPlacesOS.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MooresVotingAlgo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MoveAllZerosToEnd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MoveAllZerosToEndOs.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.RemoveDuplicatesFromArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveOuterParantheses.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.RemoveOuterParanthesesOs.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ReverseWords.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.SortArray012.executor&quot;: &quot;Run&quot;,
-    &quot;Application.String.CheckRotatedString.Solution.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ThreadPriorities.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TwoSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TwoSumSol1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;feature-dsps&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/Jerry/Documents/Development/Opulent/IntEditor/gitProject/java-practice/src/DataStructure/LinkedList/DeleteNodeFromLL&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Factorial.executor": "Run",
+    "Application.GFG.executor": "Run",
+    "Application.LargestCommonPrefix.executor": "Run",
+    "Application.LearnHashMap.executor": "Run",
+    "Application.LeftRotateArrayBy1Place.executor": "Run",
+    "Application.LeftRotateArrayByKPlaces.executor": "Run",
+    "Application.LeftRotateArrayByKPlacesOS.executor": "Run",
+    "Application.MooresVotingAlgo.executor": "Run",
+    "Application.MoveAllZerosToEnd.executor": "Run",
+    "Application.MoveAllZerosToEndOs.executor": "Debug",
+    "Application.RemoveDuplicatesFromArray.executor": "Run",
+    "Application.RemoveOuterParantheses.executor": "Debug",
+    "Application.RemoveOuterParanthesesOs.executor": "Debug",
+    "Application.ReverseWords.executor": "Run",
+    "Application.Solution.executor": "Debug",
+    "Application.SortArray012.executor": "Run",
+    "Application.String.CheckRotatedString.Solution.executor": "Debug",
+    "Application.ThreadPriorities.executor": "Run",
+    "Application.TwoSum.executor": "Run",
+    "Application.TwoSumSol1.executor": "Run",
+    "Application.Unnamed.executor": "Run",
+    "Maven.java-practice [clean,install].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "feature-dsps",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/Jerry/Documents/Development/Opulent/IntEditor/gitProject/java-practice",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/DataStructure/LinkedList/DeleteNodeFromLL" />
       <recent name="$PROJECT_DIR$/src/DataStructure/LinkedList" />
       <recent name="$PROJECT_DIR$/src/DataStructure" />
       <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/java-practice" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/String/Simple/ReverseWords" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/DataStructure/Array/Simple" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Arrays.Medium" />
@@ -130,10 +156,10 @@
       <recent name="Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReverseWords">
+  <component name="RunManager" selected="Application.Unnamed">
     <configuration name="LearnHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataStructure.HashMap.LearnHashMap" />
-      <module name="DsPractice" />
+      <module name="libapi" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="DataStructure.HashMap.*" />
@@ -157,9 +183,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.ReverseWords.ReverseWords" />
-      <module name="DsPractice" />
+    <configuration name="ReverseWords" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="libapi" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="String.ReverseWords.*" />
@@ -196,13 +223,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <module name="libapi" />
+      <selectedOptions>
+        <option name="environmentVariables" visible="false" />
+      </selectedOptions>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Array.LeftRotateArrayBy1Place" />
+      <module name="libapi" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.LearnHashMap" />
+      <item itemvalue="Application.MooresVotingAlgo" />
+      <item itemvalue="Application.ReverseWords" />
+      <item itemvalue="Application.SortArray012" />
+      <item itemvalue="Application.TwoSumSol1" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LearnHashMap" />
         <item itemvalue="Application.TwoSumSol1" />
         <item itemvalue="Application.SortArray012" />
         <item itemvalue="Application.ReverseWords" />
         <item itemvalue="Application.MooresVotingAlgo" />
-        <item itemvalue="Application.LearnHashMap" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +278,8 @@
       <workItem from="1710912506431" duration="1272000" />
       <workItem from="1710914203691" duration="626000" />
       <workItem from="1711131144045" duration="1252000" />
-      <workItem from="1711172317307" duration="449000" />
+      <workItem from="1711172317307" duration="3058000" />
+      <workItem from="1711194942817" duration="2395000" />
     </task>
     <task id="LOCAL-00001" summary="DeleteNodeFromLinkedLList">
       <option name="closed" value="true" />
